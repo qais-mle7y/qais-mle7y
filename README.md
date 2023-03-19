@@ -22,12 +22,6 @@ I am proficient in the following programming languages:
 - 🐍 Python
 - 🖥️ C++
 
-I have worked on a variety of projects, including:
-/*
-- [Insert project name and brief description]
-- [Insert project name and brief description]
-- [Insert project name and brief description]
-*/
 ## Contact 📫
 
 I'm always looking for opportunities to learn and improve my skills, and I'm excited to see where my journey in computer science takes me. If you're interested in connecting with me, feel free to send me a message or check out my [GitHub profile](https://github.com/qais_mle7y).
