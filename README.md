@@ -24,6 +24,6 @@ I am proficient in the following programming languages:
 
 ## Contact 📫
 
-I'm always looking for opportunities to learn and improve my skills, and I'm excited to see where my journey in computer science takes me. If you're interested in connecting with me, feel free to send me a message or check out my [GitHub profile](https://github.com/qais_mle7y).
+I'm always looking for opportunities to learn and improve my skills, and I'm excited to see where my journey in computer science takes me. If you're interested in connecting with me, feel free to send me a message or check out my [GitHub profile](https://github.com/qais-mle7y).
 
 
