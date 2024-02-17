@@ -2,7 +2,7 @@
 
 ## About Me 🙋‍♂️
 
-I'm a second-year computer science student at the University of the Witwatersrand in South Africa, with a strong passion for technology and problem-solving. I'm excited to be pursuing a career in software development.
+I'm a third-year computer science student at the University of the Witwatersrand in South Africa, with a strong passion for technology and problem-solving. I'm excited to be pursuing a career in software development.
 
 ## Interests 🤔
 
