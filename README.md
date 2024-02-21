@@ -1,3 +1,6 @@
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qais-mle7y&show_icons=true&theme=tokyonight" />
+</a></p>
 # Hi there, I'm Qais 👋
 
 ## About Me 🙋‍♂️
