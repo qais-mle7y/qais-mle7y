@@ -3,7 +3,7 @@
 </a></p>
 
 <h1 align="center">Hi 👋, I'm Qais</h1>
-<h3 align="center">A passionate Software developer from Syria, currently living in South Africa</h3>
+<h3 align="center">A passionate Junior Software developer from Syria, currently living in South Africa</h3>
 
 - 🔭 I’m currently working on [Getting my BSc in Computer Science](https://www.wits.ac.za/course-finder/undergraduate/science/computer-science/)
 
