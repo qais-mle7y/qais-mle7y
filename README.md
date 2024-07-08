@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br>🔭 Currently working on a Blog Website (Blogingy).</p>
+<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br>🔭 Currently working on a Blog Website <a href="https://github.com/qais-mle7y/Blogingy"> Blogingy. </a></p>
 
 ###
 
@@ -63,8 +63,7 @@
 
 ###
 
-<p align="left">Check out my resume <a href="https://github.com/user-attachments/files/16124176/Mhd_Qais_Alsaleh_Resume.pdf">here</a>
-.</p>
+<p align="left">Check out my resume <a href="https://github.com/user-attachments/files/16124176/Mhd_Qais_Alsaleh_Resume.pdf">here.</a></p>
 
 ###
 
