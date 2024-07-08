@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">Check out my resume [here](https://github.com/user-attachments/files/16124176/Mhd_Qais_Alsaleh_Resume.pdf)
+<p align="left">Check out my resume <a href="https://github.com/user-attachments/files/16124176/Mhd_Qais_Alsaleh_Resume.pdf">here</a>
 .</p>
 
 ###
@@ -72,4 +72,4 @@
 
 ###
 
-<p align="left">[LinkedIn](https://www.linkedin.com/in/mhd-qais-alsaleh/)<br>Email: qaisalsaleh251@gmail.com<br>Discord: mle7y</p>
+<p align="left"><a href='https://www.linkedin.com/in/mhd-qais-alsaleh/'>LinkedIn </a><br>Email: qaisalsaleh251@gmail.com<br>Discord: mle7y</p>
