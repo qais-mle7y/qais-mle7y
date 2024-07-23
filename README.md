@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br>🔭 Currently working on a Blog Website <a href="https://github.com/qais-mle7y/Blogingy"> Blogingy. </a></p>
+<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br>🔭 Currently working on a Health tracker web app <a href="https://github.com/qais-mle7y/HealthHorizon"> HealthHorizon. </a></p>
 
 ###
 
