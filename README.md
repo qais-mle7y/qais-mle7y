@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br>🔭 Currently working on a Campus safety web app <a href="https://github.com/qais-mle7y/campus-safety-app"> Campus safety. </a></p>
+<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br></p>
 
 ###
 
