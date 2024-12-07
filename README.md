@@ -59,11 +59,11 @@
 
 ###
 
-<h2 align="left">✉ Resume</h2>
+<h2 align="left">✉ Portfolio</h2>
 
 ###
 
-<p align="left">Check out my resume <a href="https://github.com/user-attachments/files/16215826/Mhd_Qais_Alsaleh_Resume.pdf">here.</a></p>
+<p align="left">Check out my portfolio <a href="https://portfolio-qaisalsaleh.vercel.app/">here.</a></p>
 
 ###
 
