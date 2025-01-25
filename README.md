@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Soon to graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br></p>
+<p align="left">🎓 Graduate with a Bachelor of Science in Computer Science.<br>💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies<br>🌍 From Syria. Based in South Africa.<br></p>
 
 ###
 
