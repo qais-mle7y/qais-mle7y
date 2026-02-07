@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-I am an entry-level Software Developer with a BSc in Computer Science and an Honours degree in progress. I have proven experience in full-stack development, cloud platforms, and database management, with a recent certification in SQL/Business Analysis. I am seeking to contribute technical expertise and problem-solving skills to innovative development teams.
+I am an entry-level Software Developer with a BSc in Computer Science and an Honours degree in progress. I have proven experience in full-stack development, cloud platforms, and database management, with a certification in SQL/Business Analysis. I am seeking to contribute technical expertise and problem-solving skills to innovative development teams.
 </p>
 
 ###
