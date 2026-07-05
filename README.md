@@ -96,15 +96,6 @@ I’m a Computer Science graduate with an Honours background in research-informe
 🧠 <b>Natural Language Processing:</b> distinction-level honours coursework
 </p>
 
----
-
-<h2 align="left">✉ Contact</h2>
-
-<p align="left">
-Best way to reach me: <a href="mailto:qaisalsaleh251@gmail.com">qaisalsaleh251@gmail.com</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/mhd-qais-alsaleh/">linkedin.com/in/mhd-qais-alsaleh</a><br>
-Discord: <b>mle7y</b>
-</p>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=qais-mle7y.qais-mle7y&left_color=slategray&right_color=blue&left_text=Profile%20Views" alt="profile views" />
