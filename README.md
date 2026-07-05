@@ -6,7 +6,6 @@ Software Developer focused on full-stack web apps, backend APIs, cloud-ready sys
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mhd-qais-alsaleh/">LinkedIn</a> •
-  <a href="https://github.com/qais-mle7y">GitHub</a> •
   <a href="mailto:qaisalsaleh251@gmail.com">qaisalsaleh251@gmail.com</a>
 </p>
 
